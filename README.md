@@ -24,14 +24,6 @@
 
 ---
 
-## 📈 Minhas Estatísticas
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bernardo-bo&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-bo&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ## 🎯 Entre em contato comigo!
 📫 **Email**: bbsantos.rj@gmail.com
 💼 **LinkedIn**: [Bernardo Bogossian](https://www.linkedin.com/in/bernardo-bogossian-b864a6339/)
